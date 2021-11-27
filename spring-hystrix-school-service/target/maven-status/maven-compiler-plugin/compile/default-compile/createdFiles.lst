@@ -1,0 +1,5 @@
+com/edureka/springhystrixschoolservice/controller/SchoolServiceController.class
+com/edureka/springhystrixschoolservice/util/SpringEurekaClientSchoolServiceInfoContributor.class
+com/edureka/springhystrixschoolservice/SpringHystrixSchoolServiceApplication.class
+com/edureka/springhystrixschoolservice/delegate/StudentServiceDelegate.class
+com/edureka/springhystrixschoolservice/delegate/StudentServiceDelegate$1.class
